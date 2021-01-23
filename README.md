@@ -68,7 +68,7 @@ Linguistic corpora consist of natural continuous texts presented electronically,
 45	آنتیآکسیدانی	آنتیآکسیدانی	N	ANM	56296-184389-1-SM#SenID=7	-	-	-	-
 46	و	و	CONJ	CONJ	56296-184389-1-SM#SenID=7	-	-	-	-
 47	میزان	میزان	N	IANM	56296-184389-1-SM#SenID=7	-	-	-	-
-48	آنتوسیانین	آنت	N	PRADR	56296-184389-1-SM#SenID=7	-	-	-	-
+48	آنتوسیانین	آنتوسیانین	N	PRADR	56296-184389-1-SM#SenID=7	-	-	-	-
 49	کاسبرگ	کاسبرگ	N	PSUS	56296-184389-1-SM#SenID=7	-	-	-	-
 50	معنی‌دار	معنی‌دار	ADJ	INTG	56296-184389-1-SM#SenID=7	-	-	-	-
 51	بود	بود#باش	V	ACT	56296-184389-1-SM#SenID=7	-	-	-	-
